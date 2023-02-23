@@ -27,6 +27,6 @@ De retour du Brésil j'ai besoin de me réatuliser, notamment au niveau code et 
 | Langues       | Languages     |
 | ------------- |:-------------:|
 | Français      | HTML          |
-| Porgugais     | CSS           |
+| Portugais     | CSS           |
 | Anglais       | Javascript    |
 
