@@ -18,10 +18,12 @@ J'ai travaillé comme :
 En France, jusqu'en 2013 puis au Brésil jusqu'en 2022
 
 ## Formation
-De retour du Brésil j'ai besoin de me réatuliser, notamment au niveau code et méthodes
+De retour du Brésil j'ai besoin de me réatuliser, notamment au niveau languages de code et méthodes
 - Javascript (**React**, **Angular**, **node.js**)
 - Server (**PHP**, **Synfony**)
-- Frameworks ()
+- Frameworks (**Bootstrap**)
+
+Pour cela j'ai commencé une formation au sein de @OClock
 
 ## Compétences
 | Langues       | Languages     |
